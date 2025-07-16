@@ -14,3 +14,4 @@ SwiftUI based app meant for a residential business.
 4. Community events
 5. Door unlock feature
 6. Pet watch feature
+7. Contact critical services
