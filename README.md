@@ -12,3 +12,4 @@ SwiftUI based app meant for a residential business.
 2. More residential perks
 3. Upper management view
 4. Community events
+5. Door unlock feature
