@@ -9,3 +9,4 @@ SwiftUI based app meant for a residential business.
 
 #Improvements
 User data
+More residential perks
