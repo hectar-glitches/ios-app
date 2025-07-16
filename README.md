@@ -8,5 +8,6 @@ SwiftUI based app meant for a residential business.
 4. ChartJs for income data
 
 #Improvements
-User data
-More residential perks
+1. User data
+2. More residential perks
+3. Upper management view
